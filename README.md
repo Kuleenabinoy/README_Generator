@@ -6,6 +6,8 @@ Application to generate README.md using Node.js
 
 A command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
+.gitignore is added with node_modules
+
 The application will be invoked by using the following command:
 
 ```bash
@@ -34,7 +36,7 @@ SO THAT I can quickly create a professional README for a new project
 
 -   GIVEN a command-line application that accepts user input
 -   WHEN I am prompted for information about my application repository
--   THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of \* \* \* Contents, Installation, Usage, License, Contributing, Tests, and Questions
+-   THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 -   WHEN I enter my project title this is displayed as the title of the README
 -   WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
     THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests

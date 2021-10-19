@@ -57,7 +57,6 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
     const licenseLink = renderLicenseLink(license);
     return licenseLink;
-    // console.log(licenseLink, "license link");
 }
 
 // TODO: Create a function to generate markdown for README
