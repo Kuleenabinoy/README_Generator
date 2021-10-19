@@ -4,7 +4,7 @@ Application to generate README.md using Node.js
 This repo contains two README files
 
 -   README.md describes the project.
--   Generated Readme file as per project requirments READMEGenerated.md
+-   Generated Readme file , as per project requirments READMEGenerated.md
 
 # Description
 
