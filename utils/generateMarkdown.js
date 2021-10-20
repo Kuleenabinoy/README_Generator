@@ -71,6 +71,7 @@ ${data.Description}\n
 *[License](#License)\n
 *[Description](#Description)\n
 *[Useage](#Useage)\n  
+*[Contributing](#Contributing)\n
 *[Tests](#Tests)\n
 *[Questions](#Questions)\n
 
@@ -86,6 +87,8 @@ ${renderLicenseSection(data.license)}
 This project uses the repo:\n
 ${data.repo}  
 
+# Contributing\n
+${data.repo}
 
 # Tests\n
  To run the project use the following command:\n

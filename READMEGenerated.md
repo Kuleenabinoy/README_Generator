@@ -1,10 +1,10 @@
 
-# Weather App
+# Weather Application
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
    
 # Description
-Application for weather updates
+Application to show current weather and forcast for five days
 
 # Table of Contents
 
@@ -16,6 +16,8 @@ Application for weather updates
 
 *[Useage](#Useage)
   
+*[Contributing](#Contributing)
+
 *[Tests](#Tests)
 
 *[Questions](#Questions)
@@ -37,6 +39,9 @@ This project uses the repo:
 
 weather  
 
+# Contributing
+
+weather
 
 # Tests
 
