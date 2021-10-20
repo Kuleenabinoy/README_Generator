@@ -60,6 +60,6 @@ https://watch.screencastify.com/v/DzWY6xfmAbpSWWMLqpWo
 
 ## Screenshots
 
-![Screenshot 2021-10-19 11 47 33](https://user-images.githubusercontent.com/86656634/137825876-c5922d02-5d2f-4506-8e5e-6a6a4d229b2a.png)
+![Screenshot 2021-10-20 12 18 25](https://user-images.githubusercontent.com/86656634/138012080-b283daf3-f3f7-48a9-a888-1f1fa39cc605.png)
 
-![Screenshot 2021-10-19 11 47 53](https://user-images.githubusercontent.com/86656634/137826481-b50187ac-700a-4531-9d18-329ab61cad91.png)
+![Screenshot 2021-10-20 12 18 32](https://user-images.githubusercontent.com/86656634/138012085-8d126754-9b4f-4da6-92b7-795227521a52.png)
